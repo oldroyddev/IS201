@@ -1,0 +1,20 @@
+.body { 
+    background-image: url('../images/back.jpeg');
+}
+
+.background {
+    background-color: rgb(65, 201, 225);
+}
+.text {
+    font-style: italic;
+    
+}
+.footer {
+    bottom: 10px;
+    height: 10px;
+    left: 5px;
+    right: 5px;
+    font-size: 12px;
+    color: white;
+    text-align: center ;
+    position: fixed;
